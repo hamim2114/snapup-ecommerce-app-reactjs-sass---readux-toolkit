@@ -1,0 +1,17 @@
+.cart-message{
+  position: fixed;
+  width: 180px;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: #00000069 1px 1px 10px;
+  top: 100px;
+  right: 50px;
+  display: flex;
+  align-items: center;
+  color: green;
+  background: #fff;
+  transition: .5s ease-in-out;
+  i{
+    margin-right: 10px;
+  }
+}
